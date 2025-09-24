@@ -1,0 +1,21 @@
+Preciso que você crie um protótipo de um site
+Que tenha telas responsivas para Computador 1920x1080 e Celular para iPhoneSE
+
+Deve ter telas de login e cadastro
+Acesso ao curso:
+    O curso tem 5 módulos
+    Para cada módulos pode conter:
+        - Conteúdo de Texto
+        - Conteúdo de Vídeo
+        - Conteúdo de Aúdio
+        - Arquivos PDF's
+
+Quando completado o curso, pode ser gerado um certificado de conclusão.
+Deve ser aplicado prova para cada módulo terminado.
+
+Telas de configuração de 
+- Conta
+    - Esqueci a senha
+- Notificações
+    - Para SMS
+    - Para E-mail
